@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="DigitsInANumber" type="C++" />
+      <mapping pattern="digitsNum" type="CLASS" />
+      <mapping pattern="DigitsNum" type="CLASS" />
+    </extensionMap>
+  </component>
+</application>
